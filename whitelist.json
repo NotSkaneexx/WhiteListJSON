@@ -1,7 +1,12 @@
 [
     {
-      "username": "Ousitesar",
-      "userid": 7797944122,
-      "expires": "2024-12-31"
+        "username": "Ousitesar",
+        "userid": 7797944122,
+        "expires": "never"
     },
+    {
+        "username": "TestUser",
+        "userid": 555555555,
+        "expires": "2024-01-15"
+    }
 ]
